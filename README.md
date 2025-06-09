@@ -1,7 +1,7 @@
 Projeto EBOOK Gerado por I.A.s
 Repositório criado para fins didáticos do uso do prompt engineering para criar um ebook. 
 
-[📘 Leia o aqui eBook "Scrum de Ouro"](Ebook_CosmoÁgilParaDevs.pdf.md)
+[📘 Leia o aqui eBook "Scrum de Ouro"](Ebook_CosmoÁgilParaDevs.pdf)
 
 Todos os Prompts usados seguem abaixo.
 
