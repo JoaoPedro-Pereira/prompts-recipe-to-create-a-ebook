@@ -1,6 +1,8 @@
 Projeto EBOOK Gerado por I.A.s
 Repositório criado para fins didáticos do uso do prompt engineering para criar um ebook. 
 
+[📘 Leia o aqui eBook "Scrum de Ouro"](Ebook_CosmoÁgilParaDevs.pdf.md)
+
 Todos os Prompts usados seguem abaixo.
 
 💻 Tecnologias utilizadas no projeto:
@@ -19,3 +21,4 @@ ChatGPT:
 Google Studio AI: 
 
 * Generate the zodiac knights from saint seiya anime, use pixel art style.
+
